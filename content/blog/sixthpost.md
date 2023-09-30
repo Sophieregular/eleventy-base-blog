@@ -1,6 +1,5 @@
 ---
 title: A new blog post from scratch
-layout: post
 description: This is a new blog post that I created.
 date: 2023-09-30
 tags: 
